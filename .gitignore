@@ -3,3 +3,4 @@ env/
 images/
 photoSearcher copy
 
+# git remote set-url origin https://github.com/dashakdc3/PhotoSearcher.git
